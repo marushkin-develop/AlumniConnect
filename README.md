@@ -15,7 +15,7 @@
 
 ## 🚀 Быстрый старт  
 
-1. Откройте живую демонстрацию: [precious-kashata-4dfddd.netlify.app](precious-kashata-4dfddd.netlify.app)  
+1. Откройте живую демонстрацию: [https://precious-kashata-4dfddd.netlify.app/](https://precious-kashata-4dfddd.netlify.app/)  
 2. Приложение полностью готово к работе – все данные сохраняются автоматически  
 3. Добавьте выпускников, запланируйте мероприятия и поддерживайте связь с сообществом!  
 
