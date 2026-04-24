@@ -1,4 +1,4 @@
-# AlumniConnect
+
 # 🎓 AlumniConnect — Система управления выпускниками  
 > Логотип AlumniConnect  
 
